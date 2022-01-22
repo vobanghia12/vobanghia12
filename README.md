@@ -48,5 +48,5 @@
 <!-- stats -->
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=vobanghia12&show_icons=true&theme=tokyonight">
-<img height = "195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vobanghia12&layout=compact&show_icons=true&theme=tokyonight">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vobanghia12&layout=compact&show_icons=true&theme=tokyonight">
 </p>
